@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_IBki4HblEe21DKtLdqIhMA" name="Modèle">
+  <eAnnotations xmi:id="_IBki4XblEe21DKtLdqIhMA" source="Objing">
+    <contents xmi:type="uml:Property" xmi:id="_IBki4nblEe21DKtLdqIhMA" name="exporterVersion">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_IBki43blEe21DKtLdqIhMA" value="3.0.0"/>
+    </contents>
+  </eAnnotations>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_IBki5HblEe21DKtLdqIhMA" name="User"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_IBki5XblEe21DKtLdqIhMA" memberEnd="_IBki5nblEe21DKtLdqIhMA _IBki6HblEe21DKtLdqIhMA" navigableOwnedEnd="_IBki5nblEe21DKtLdqIhMA">
+    <ownedEnd xmi:id="_IBki5nblEe21DKtLdqIhMA" visibility="public" type="_IBki-XblEe21DKtLdqIhMA" isUnique="false" association="_IBki5XblEe21DKtLdqIhMA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBki53blEe21DKtLdqIhMA"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_IBki6HblEe21DKtLdqIhMA" visibility="public" type="_IBki5HblEe21DKtLdqIhMA" isUnique="false" association="_IBki5XblEe21DKtLdqIhMA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBki6XblEe21DKtLdqIhMA"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_IBki6nblEe21DKtLdqIhMA" memberEnd="_IBki63blEe21DKtLdqIhMA _IBki7XblEe21DKtLdqIhMA" navigableOwnedEnd="_IBki63blEe21DKtLdqIhMA">
+    <ownedEnd xmi:id="_IBki63blEe21DKtLdqIhMA" visibility="public" type="_IBkjAXblEe21DKtLdqIhMA" isUnique="false" association="_IBki6nblEe21DKtLdqIhMA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBki7HblEe21DKtLdqIhMA"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_IBki7XblEe21DKtLdqIhMA" visibility="public" type="_IBki5HblEe21DKtLdqIhMA" isUnique="false" association="_IBki6nblEe21DKtLdqIhMA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBki7nblEe21DKtLdqIhMA"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_IBki73blEe21DKtLdqIhMA" memberEnd="_IBki8HblEe21DKtLdqIhMA _IBki8nblEe21DKtLdqIhMA" navigableOwnedEnd="_IBki8HblEe21DKtLdqIhMA">
+    <ownedEnd xmi:id="_IBki8HblEe21DKtLdqIhMA" visibility="public" type="_IBkjCHblEe21DKtLdqIhMA" isUnique="false" association="_IBki73blEe21DKtLdqIhMA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBki8XblEe21DKtLdqIhMA"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_IBki8nblEe21DKtLdqIhMA" visibility="public" type="_IBki5HblEe21DKtLdqIhMA" isUnique="false" association="_IBki73blEe21DKtLdqIhMA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBki83blEe21DKtLdqIhMA"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_IBki9HblEe21DKtLdqIhMA" memberEnd="_IBki9XblEe21DKtLdqIhMA _IBki93blEe21DKtLdqIhMA" navigableOwnedEnd="_IBki9XblEe21DKtLdqIhMA">
+    <ownedEnd xmi:id="_IBki9XblEe21DKtLdqIhMA" visibility="public" type="_IBkjGHblEe21DKtLdqIhMA" isUnique="false" association="_IBki9HblEe21DKtLdqIhMA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBki9nblEe21DKtLdqIhMA"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_IBki93blEe21DKtLdqIhMA" visibility="public" type="_IBki5HblEe21DKtLdqIhMA" isUnique="false" association="_IBki9HblEe21DKtLdqIhMA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBki-HblEe21DKtLdqIhMA"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_IBki-XblEe21DKtLdqIhMA" name="Configurer simulation">
+    <ownedComment xmi:id="_IBki-nblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBki-3blEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBki_HblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBki_XblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBki_nblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBki_3blEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <extend xmi:id="_IBkjAHblEe21DKtLdqIhMA" name="UseCaseDependency" extendedCase="_IBkjAXblEe21DKtLdqIhMA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_IBkjAXblEe21DKtLdqIhMA" name="Lancer la simulation">
+    <ownedComment xmi:id="_IBkjAnblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjA3blEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjBHblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjBXblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjBnblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjB3blEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_IBkjCHblEe21DKtLdqIhMA" name="Pause simulation">
+    <ownedComment xmi:id="_IBkjCXblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjCnblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjC3blEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjDHblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjDXblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjDnblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <include xmi:id="_IBkjD3blEe21DKtLdqIhMA" name="UseCaseDependency" addition="_IBkjAXblEe21DKtLdqIhMA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_IBkjEHblEe21DKtLdqIhMA" name="Sauvegarder simulation">
+    <ownedComment xmi:id="_IBkjEXblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjEnblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjE3blEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjFHblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjFXblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjFnblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <include xmi:id="_IBkjF3blEe21DKtLdqIhMA" name="UseCaseDependency" addition="_IBkjCHblEe21DKtLdqIhMA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_IBkjGHblEe21DKtLdqIhMA" name="Charger simulation">
+    <ownedComment xmi:id="_IBkjGXblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjGnblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjG3blEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjHHblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjHXblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjHnblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_IBkjH3blEe21DKtLdqIhMA" name="ui.UserInterface"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_IBkjIHblEe21DKtLdqIhMA" name="GameEngine">
+    <ownedAttribute xmi:id="_IBkjIXblEe21DKtLdqIhMA" name="userInterface" visibility="public" type="_IBkjH3blEe21DKtLdqIhMA" isUnique="false" aggregation="shared" association="_IBkjJXblEe21DKtLdqIhMA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBkjInblEe21DKtLdqIhMA"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_IBkjI3blEe21DKtLdqIhMA" name="universe" visibility="public" type="_IBkjKnblEe21DKtLdqIhMA" isUnique="false" aggregation="composite" association="_IBkjKHblEe21DKtLdqIhMA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBkjJHblEe21DKtLdqIhMA"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_IBkjJXblEe21DKtLdqIhMA" memberEnd="_IBkjIXblEe21DKtLdqIhMA _IBkjJnblEe21DKtLdqIhMA">
+    <ownedEnd xmi:id="_IBkjJnblEe21DKtLdqIhMA" visibility="public" type="_IBkjIHblEe21DKtLdqIhMA" isUnique="false" association="_IBkjJXblEe21DKtLdqIhMA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBkjJ3blEe21DKtLdqIhMA"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_IBkjKHblEe21DKtLdqIhMA" memberEnd="_IBkjI3blEe21DKtLdqIhMA _IBkjKXblEe21DKtLdqIhMA">
+    <ownedEnd xmi:id="_IBkjKXblEe21DKtLdqIhMA" visibility="public" type="_IBkjIHblEe21DKtLdqIhMA" isUnique="false" association="_IBkjKHblEe21DKtLdqIhMA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_IBkjKnblEe21DKtLdqIhMA" name="universe.Universe">
+    <ownedAttribute xmi:id="_IBkjK3blEe21DKtLdqIhMA" name="animal" visibility="public" type="_IBkjMHblEe21DKtLdqIhMA" isUnique="false" aggregation="shared" association="_IBkjLXblEe21DKtLdqIhMA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBkjLHblEe21DKtLdqIhMA"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_IBkjLXblEe21DKtLdqIhMA" memberEnd="_IBkjK3blEe21DKtLdqIhMA _IBkjLnblEe21DKtLdqIhMA">
+    <ownedEnd xmi:id="_IBkjLnblEe21DKtLdqIhMA" visibility="public" type="_IBkjKnblEe21DKtLdqIhMA" isUnique="false" association="_IBkjLXblEe21DKtLdqIhMA">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_IBkjL3blEe21DKtLdqIhMA"/>
+    </ownedEnd>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_IBkjMHblEe21DKtLdqIhMA" name="universe.entities.Animal"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_IBkjMXblEe21DKtLdqIhMA" name="universe.entities.Sheep">
+    <generalization xmi:id="_IBkjMnblEe21DKtLdqIhMA" general="_IBkjMHblEe21DKtLdqIhMA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_IBkjM3blEe21DKtLdqIhMA" name="universe.entities.Wolf">
+    <generalization xmi:id="_IBkjNHblEe21DKtLdqIhMA" general="_IBkjMHblEe21DKtLdqIhMA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_IBkjNXblEe21DKtLdqIhMA" name="ConfigurationInterface"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_IBkjNnblEe21DKtLdqIhMA" name="Simulation"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_IBkjN3blEe21DKtLdqIhMA" name="Memento"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_IBkjOHblEe21DKtLdqIhMA" name="Analyser les résultats">
+    <ownedComment xmi:id="_IBkjOXblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjOnblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjO3blEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjPHblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjPXblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <ownedComment xmi:id="_IBkjPnblEe21DKtLdqIhMA">
+      <body>...</body>
+    </ownedComment>
+    <include xmi:id="_IBkjP3blEe21DKtLdqIhMA" name="UseCaseDependency" addition="_IBkjAXblEe21DKtLdqIhMA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_IBkjQHblEe21DKtLdqIhMA" name="Configuration"/>
+  <packagedElement xmi:type="uml:StateMachine" xmi:id="_IBkjQXblEe21DKtLdqIhMA" name="State Machine">
+    <region xmi:id="_IBkjQnblEe21DKtLdqIhMA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interaction" xmi:id="_IBkjQ3blEe21DKtLdqIhMA" name="Interaction">
+    <nestedClassifier xmi:type="uml:Collaboration" xmi:id="_IBkjRHblEe21DKtLdqIhMA" name="locals"/>
+    <lifeline xmi:id="_IBkjRXblEe21DKtLdqIhMA" name="universe.entities.Animal" coveredBy="_IBkjS3blEe21DKtLdqIhMA _IBkjVXblEe21DKtLdqIhMA _IBkjW3blEe21DKtLdqIhMA"/>
+    <lifeline xmi:id="_IBkjRnblEe21DKtLdqIhMA" name="universe.entities.Animal" coveredBy="_IBkjSXblEe21DKtLdqIhMA _IBkjTHblEe21DKtLdqIhMA _IBkjTXblEe21DKtLdqIhMA _IBkjVHblEe21DKtLdqIhMA _IBkjVXblEe21DKtLdqIhMA _IBkjWXblEe21DKtLdqIhMA _IBkjWnblEe21DKtLdqIhMA _IBkjW3blEe21DKtLdqIhMA _IBkjYHblEe21DKtLdqIhMA _IBkjYXblEe21DKtLdqIhMA _IBkjY3blEe21DKtLdqIhMA"/>
+    <lifeline xmi:id="_IBkjR3blEe21DKtLdqIhMA" name="Environement" coveredBy="_IBkjTnblEe21DKtLdqIhMA"/>
+    <lifeline xmi:id="_IBkjSHblEe21DKtLdqIhMA" name="universe.entities.Animal" coveredBy="_IBkjTnblEe21DKtLdqIhMA"/>
+    <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_IBkjSXblEe21DKtLdqIhMA" covered="_IBkjRnblEe21DKtLdqIhMA" start="_IBkjWXblEe21DKtLdqIhMA" finish="_IBkjWnblEe21DKtLdqIhMA">
+      <ownedComment xmi:id="_IBkjSnblEe21DKtLdqIhMA">
+        <body>generate a baby</body>
+      </ownedComment>
+    </fragment>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_IBkjS3blEe21DKtLdqIhMA" covered="_IBkjRXblEe21DKtLdqIhMA" message="_IBkjZHblEe21DKtLdqIhMA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_IBkjTHblEe21DKtLdqIhMA" covered="_IBkjRnblEe21DKtLdqIhMA" message="_IBkjZHblEe21DKtLdqIhMA"/>
+    <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_IBkjTXblEe21DKtLdqIhMA" covered="_IBkjRnblEe21DKtLdqIhMA" start="_IBkjTHblEe21DKtLdqIhMA" finish="_IBkjVHblEe21DKtLdqIhMA"/>
+    <fragment xmi:type="uml:CombinedFragment" xmi:id="_IBkjTnblEe21DKtLdqIhMA" name="CombinedFragment" covered="_IBkjSHblEe21DKtLdqIhMA _IBkjR3blEe21DKtLdqIhMA" interactionOperator="alt">
+      <ownedComment xmi:id="_IBkjT3blEe21DKtLdqIhMA">
+        <body>&lt;The animal died of natural death></body>
+      </ownedComment>
+      <ownedComment xmi:id="_IBkjUHblEe21DKtLdqIhMA">
+        <body>Generate salt at the place of the death</body>
+      </ownedComment>
+      <operand xmi:id="_IBkjUXblEe21DKtLdqIhMA">
+        <guard xmi:id="_IBkjUnblEe21DKtLdqIhMA">
+          <specification xmi:type="uml:LiteralString" xmi:id="_IBkjU3blEe21DKtLdqIhMA" value="The animal died of hunger or old-age"/>
+        </guard>
+        <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_IBkjVHblEe21DKtLdqIhMA" covered="_IBkjRnblEe21DKtLdqIhMA"/>
+        <fragment xmi:type="uml:CombinedFragment" xmi:id="_IBkjVXblEe21DKtLdqIhMA" name="CombinedFragment" covered="_IBkjRXblEe21DKtLdqIhMA _IBkjRnblEe21DKtLdqIhMA" interactionOperator="alt">
+          <operand xmi:id="_IBkjVnblEe21DKtLdqIhMA">
+            <guard xmi:id="_IBkjV3blEe21DKtLdqIhMA">
+              <specification xmi:type="uml:LiteralString" xmi:id="_IBkjWHblEe21DKtLdqIhMA" value="both same species with different genders and can breed and can generate a baby on the grid"/>
+            </guard>
+            <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_IBkjWXblEe21DKtLdqIhMA" covered="_IBkjRnblEe21DKtLdqIhMA"/>
+            <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_IBkjWnblEe21DKtLdqIhMA" covered="_IBkjRnblEe21DKtLdqIhMA"/>
+          </operand>
+        </fragment>
+      </operand>
+    </fragment>
+    <fragment xmi:type="uml:CombinedFragment" xmi:id="_IBkjW3blEe21DKtLdqIhMA" name="CombinedFragment" covered="_IBkjRXblEe21DKtLdqIhMA _IBkjRnblEe21DKtLdqIhMA" interactionOperator="alt">
+      <operand xmi:id="_IBkjXHblEe21DKtLdqIhMA">
+        <ownedComment xmi:id="_IBkjXXblEe21DKtLdqIhMA">
+          <body>&lt;Saisir le texte de la note ici></body>
+        </ownedComment>
+        <guard xmi:id="_IBkjXnblEe21DKtLdqIhMA">
+          <specification xmi:type="uml:LiteralString" xmi:id="_IBkjX3blEe21DKtLdqIhMA" value="One wolf and one sheep"/>
+        </guard>
+        <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_IBkjYHblEe21DKtLdqIhMA" covered="_IBkjRnblEe21DKtLdqIhMA"/>
+        <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_IBkjYXblEe21DKtLdqIhMA" covered="_IBkjRnblEe21DKtLdqIhMA" start="_IBkjYHblEe21DKtLdqIhMA" finish="_IBkjY3blEe21DKtLdqIhMA">
+          <ownedComment xmi:id="_IBkjYnblEe21DKtLdqIhMA">
+            <body>universe.entities.Sheep eaten </body>
+          </ownedComment>
+        </fragment>
+        <fragment xmi:type="uml:ExecutionOccurrenceSpecification" xmi:id="_IBkjY3blEe21DKtLdqIhMA" covered="_IBkjRnblEe21DKtLdqIhMA"/>
+      </operand>
+    </fragment>
+    <message xmi:id="_IBkjZHblEe21DKtLdqIhMA" name="Are adjacent" messageSort="asynchCall" receiveEvent="_IBkjTHblEe21DKtLdqIhMA" sendEvent="_IBkjS3blEe21DKtLdqIhMA"/>
+  </packagedElement>
+</uml:Model>
